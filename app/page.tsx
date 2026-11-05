@@ -21,7 +21,7 @@ const tiles = [
   },
   {
     href: "/guide",
-    title: "4. 연수 가이드",
+    title: "4. 가이드",
     body: "시트 사본 만들기, Apps Script 배포, Vercel 배포, 수업 운영 순서를 확인합니다.",
     action: "가이드 보기"
   }
