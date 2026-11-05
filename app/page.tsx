@@ -33,9 +33,9 @@ export default function HomePage() {
       <section className="hero-band">
         <div>
           <p className="eyebrow">Vercel + Google Sheets</p>
-          <h1>교사가 가져가서 운영하는 손씻기 6단계 코칭 앱</h1>
+          <h1> 손씻기 6단계 챌린지 앱</h1>
           <p>
-            연수에서는 앱을 배포하고, 휴대폰으로 손동작 샘플을 모은 뒤, 학생의 완료 기록을 각자 Google
+            앱을 배포하고, 휴대폰으로 손동작 샘플을 모은 뒤, 학생의 완료 기록을 각자 Google
             Sheets에 남기는 흐름까지 실습합니다.
           </p>
         </div>
